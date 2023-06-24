@@ -1,3 +1,3 @@
 # Hackathon2
 
-https://vibrant-boyd-1e832f.netlify.app/
+https://guvi-hackathon2-praveen.netlify.app/
